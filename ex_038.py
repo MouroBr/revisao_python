@@ -7,4 +7,4 @@ def maiorOuMenor(a, b):
         print('Não existe valor maior, os dois são iguais')
 
 
-maiorOuMenor(3, 4)
+maiorOuMenor(0, 0)
